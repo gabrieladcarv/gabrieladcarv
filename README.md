@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Gabriela 
 
-<!--
-**gabrieladcarv/gabrieladcarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring different paths in software development — learning, building, and figuring out where I want to specialize
+About Me
 
-Here are some ideas to get you started:
+I’m currently finishing my Programming Fundamentals course at Rocketseat and progressing through a Full Stack Development course. This GitHub is where I document my journey — every project here reflects something I’ve learned and built along the way.
+I’m still exploring which area of tech fits me best — web development, cybersecurity, or something else entirely — and I’m using these projects to learn, test, and figure that out. Open to opportunities and always learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 Currently Learning:
+
+	- Programming Fundamentals (Rocketseat)
+	- Full Stack Web Development (Rocketseat)
+	- Git & GitHub workflows
+  
+
+📫 Let’s Connect:
+
+	- LinkedIn: https://www.linkedin.com/in/gabrieladcarv
+	- Email: mgabrieladicarv@gmail.com
