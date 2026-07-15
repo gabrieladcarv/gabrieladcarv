@@ -1,11 +1,11 @@
 ## Hi, I'm Gabriela 
 
-🚀 Exploring different paths in software development — learning, building, and figuring out where I want to specialize
-About Me
+🚀 Transitioning into tech — learning, building, and exploring different paths in software development
+
+## About Me
 
 I’m currently finishing my Programming Fundamentals course at Rocketseat and progressing through a Full Stack Development course. This GitHub is where I document my journey — every project here reflects something I’ve learned and built along the way.
-I’m still exploring which area of tech fits me best — web development, cybersecurity, or something else entirely — and I’m using these projects to learn, test, and figure that out. Open to opportunities and always learning.
-
+I’m making a career change into tech, with the goal of pursuing a Master of Information Technology in Australia and building my career in the Australian tech market. I’m still exploring which area fits me best — web development, cybersecurity, or something else — and using these projects to learn, test, and figure that out.
 
 🌱 Currently Learning:
 
@@ -18,3 +18,5 @@ I’m still exploring which area of tech fits me best — web development, cyber
 
 	- LinkedIn: https://www.linkedin.com/in/gabrieladcarv
 	- Email: mgabrieladicarv@gmail.com
+
+⭐ Thanks for stopping by! I update this profile regularly as I complete new projects.
